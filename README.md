@@ -1,5 +1,5 @@
 # Hi, I’m @Synapse113
-I’m interested in React, HTML5, TypeScript, JavaScript, and indie game development.
+I find most fullstack stuff interesting, and tend to dabble in as many fields of tech as possible.
 
 <!---
 Synapse113/Synapse113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
