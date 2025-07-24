@@ -1,5 +1,5 @@
 # Hi, I’m @Synapse113
-Fullstack developer, React enthusiast
+Fullstack developer
 
 <!---
 Synapse113/Synapse113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
